@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Cwiczenia28102024"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" FontStyle="Italic">
     <Grid>
-        
+        <Button x:Name="btnStart"  Content="Start" HorizontalAlignment="Left"
+                 Height="60" Margin="75,50,0,0" VerticalAlignment="Top" Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" FontStyle="Italic"/>
     </Grid>
 </Window>
