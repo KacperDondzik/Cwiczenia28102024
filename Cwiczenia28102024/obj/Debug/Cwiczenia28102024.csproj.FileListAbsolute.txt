@@ -1,0 +1,15 @@
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.csproj.AssemblyReference.cache
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\MainWindow.g.cs
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\App.g.cs
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024_MarkupCompile.cache
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024_MarkupCompile.lref
+Z:\Cwiczenia28102024\Cwiczenia28102024\bin\Debug\Cwiczenia28102024.exe.config
+Z:\Cwiczenia28102024\Cwiczenia28102024\bin\Debug\Cwiczenia28102024.exe
+Z:\Cwiczenia28102024\Cwiczenia28102024\bin\Debug\Cwiczenia28102024.pdb
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\MainWindow.baml
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.g.resources
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.Properties.Resources.resources
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.csproj.GenerateResource.cache
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.csproj.CoreCompileInputs.cache
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.exe
+Z:\Cwiczenia28102024\Cwiczenia28102024\obj\Debug\Cwiczenia28102024.pdb
