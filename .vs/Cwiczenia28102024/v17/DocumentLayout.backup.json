@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "Z:\\Cwiczenia28102024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F03D2C89-CA76-4B17-921A-8F371F901ACE}|Cwiczenia28102024\\Cwiczenia28102024.csproj|z:\\cwiczenia28102024\\cwiczenia28102024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F03D2C89-CA76-4B17-921A-8F371F901ACE}|Cwiczenia28102024\\Cwiczenia28102024.csproj|Z:\\Cwiczenia28102024\\cwiczenia28102024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F03D2C89-CA76-4B17-921A-8F371F901ACE}|Cwiczenia28102024\\Cwiczenia28102024.csproj|solutionrelative:cwiczenia28102024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F03D2C89-CA76-4B17-921A-8F371F901ACE}|Cwiczenia28102024\\Cwiczenia28102024.csproj|Z:\\Cwiczenia28102024\\cwiczenia28102024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F03D2C89-CA76-4B17-921A-8F371F901ACE}|Cwiczenia28102024\\Cwiczenia28102024.csproj|z:\\cwiczenia28102024\\cwiczenia28102024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F03D2C89-CA76-4B17-921A-8F371F901ACE}|Cwiczenia28102024\\Cwiczenia28102024.csproj|solutionrelative:cwiczenia28102024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Cwiczenia28102024\\MainWindow.xaml.cs",
               "ToolTip": "Z:\\Cwiczenia28102024\\Cwiczenia28102024\\MainWindow.xaml.cs",
               "RelativeToolTip": "Cwiczenia28102024\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwB8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T06:39:25.608Z",
               "EditorCaption": ""

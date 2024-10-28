@@ -27,9 +27,9 @@ namespace Cwiczenia28102024
 
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
-            btnStart.Opacity = 0.5; 
-            MessageBox.Show("Witaj, świecie!"); 
-            btnStart.Opacity = 1;
+            this.Visibility = Visibility.Hidden; // Ukrycie przycisku
+            MessageBox.Show("Witaj, świecie!");
+            this.Visibility = Visibility.Visible; // Przywrócenie widoczności
         }
 
         private void btnTime_MouseEnter(object sender, MouseEventArgs e)
