@@ -15,5 +15,18 @@
         <Button x:Name="btnActivate" Content="Aktywuj" HorizontalAlignment="Left" Height="60" Margin="75,250,0,0" VerticalAlignment="Top" Width="135" FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" Click="btnActivate_Click" />
 
 
+        <TextBlock x:Name="txtQuestion" Text="Czy chcesz podwyżkę?" 
+                   HorizontalAlignment="Left" VerticalAlignment="Top" 
+                   Margin="300,50,0,0" FontSize="24" FontWeight="Bold"/>
+
+        <Button x:Name="btnYes" Content="Tak" HorizontalAlignment="Left" 
+                Height="60" Margin="300,150,0,0" VerticalAlignment="Top" 
+                Width="135" FontFamily="Times New Roman" FontSize="26.667" 
+                FontWeight="Bold" MouseEnter="btnYes_MouseEnter"/>
+
+        <Button x:Name="btnNo" Content="Nie" HorizontalAlignment="Left" 
+                Height="60" Margin="450,150,0,0" VerticalAlignment="Top" 
+                Width="135" FontFamily="Times New Roman" FontSize="26.667" 
+                FontWeight="Bold"/>
     </Grid>
 </Window>

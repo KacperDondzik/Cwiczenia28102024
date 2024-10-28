@@ -47,5 +47,13 @@ namespace Cwiczenia28102024
         {
             btnTime.Content = "Czas";
         }
+
+        private void btnYes_MouseEnter(object sender, MouseEventArgs e)
+        {
+            // Zamiana miejscami przycisków "Tak" i "Nie"
+            var tempMargin = btnYes.Margin;
+            btnYes.Margin = btnNo.Margin;
+            btnNo.Margin = tempMargin;
+        }
     }
 }
