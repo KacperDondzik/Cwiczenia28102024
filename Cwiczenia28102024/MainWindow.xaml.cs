@@ -32,6 +32,11 @@ namespace Cwiczenia28102024
             this.Visibility = Visibility.Visible; // Przywrócenie widoczności
         }
 
+        private void btnActivate_Click(object sender, RoutedEventArgs e)
+        {
+            btnStart.IsEnabled = true; // Uaktywnienie przycisku Start
+        }
+
         private void btnTime_MouseEnter(object sender, MouseEventArgs e)
         {
             DateTime data = DateTime.Now;
